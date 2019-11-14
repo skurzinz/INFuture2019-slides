@@ -1,5 +1,9 @@
-# Let's Get Started
+# Event-based Modelling of a Major Historical Government Source: Ministerratsprotokolle 1848–1918
 
+@snap[south span-100 text-06]
+Stephan Kurz, Wladimir Fischer-Nebmaier  
+Austrian Academy of Sciences
+@snapend
 ---
 
 ## Add Some Slide Candy
