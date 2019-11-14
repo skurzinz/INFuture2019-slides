@@ -15,9 +15,29 @@ Austrian Academy of Sciences
 
 ---
 
+## Contents
+
+- 1848 to 1867 (retro-digitized)
+- 1867 to 1918 (in the works, "born digital")
+- everything the government discussed
+  - from individual pensions, orders …
+  - … to railway lines, founding of universities …
+  - … crises and wars
+
+---
+
+## Open data
+
+- but for history
+- "Digital Humanities" methods
+- "Findable, Accessible, Interoperable, and Re-usable"
+
+---
+
 ## Methods
 
-![IMAGE](assets/img/mrpactivitydiagram.gv.svg)
+![svg](assets/img/mrpactivitydiagram.gv.svg)
+![png](assets/img/mrpactivitydiagram.gv.svg)
 
 ---
 
@@ -32,7 +52,7 @@ Austrian Academy of Sciences
 
 ## Tools/stack
 
-- eXist-db
+- Word/Git/XSL/eXist-db
 - Zotero/bibsonomy
 - APIS
 
@@ -40,7 +60,8 @@ Austrian Academy of Sciences
 
 ## Deployment ecosystem
 
-![IMAGE](assets/img/mrpdeploymentdiagram.gv.svg)
+![svg](assets/img/mrpdeploymentdiagram.gv.svg)
+![png](assets/img/mrpdeploymentdiagram.gv.png)
 
 
 ---
@@ -62,64 +83,4 @@ liberate some more history data.
 
 @snap[south span-100 text]
 feedback and/or contribution is always welcome.
-@snapend
-
----
-
-@snap[south span-100 text-white]
-Snap Layouts let you create custom slide designs directly within your markdown.
-@snapend
-
----?color=linear-gradient(90deg, #5384AD 65%, white 35%)
-@title[Add A Little Imagination]
-
-@snap[north-west h4-white]
-#### And start presenting...
-@snapend
-
-@snap[west span-55]
-@ul[list-spaced-bullets text-white text-09]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
-@ulend
-@snapend
-
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
-@snapend
-
----
-
-@snap[north-east span-100 text-pink text-06]
-Let your code do the talking!
-@snapend
-
-```sql zoom-18
-CREATE TABLE "topic" (
-    "id" serial NOT NULL PRIMARY KEY,
-    "forum_id" integer NOT NULL,
-    "subject" varchar(255) NOT NULL
-);
-ALTER TABLE "topic"
-ADD CONSTRAINT forum_id
-FOREIGN KEY ("forum_id")
-REFERENCES "forum" ("id");
-```
-
-@snap[south span-100 text-gray text-08]
-@[1-5](You can step-and-ZOOM into fenced-code blocks, source files, and Github GIST.)
-@[6,7, zoom-13](Using GitPitch live code presenting with optional annotations.)
-@[8-9, zoom-12](This means no more switching between your slide deck and IDE on stage.)
-@snapend
-
-
----?image=assets/img/presenter.jpg
-
-@snap[north span-100 h2-white]
-## Now It's Your Turn
-@snapend
-
-
 @snapend
