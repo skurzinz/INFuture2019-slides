@@ -72,7 +72,27 @@ Austrian Academy of Sciences
   
 see <https://mpr.acdh-dev.ac.at>
 
+---
 
+### tei:event
+
+- Joint paper with C Fritze (onb.ac.at) / H W Klug (uni-graz.at)
+- diary of Andreas Okopenko (Austrian writer)
+- medieval calendar 
+- medieval itineraries
+- find ways to tag and disseminate DSE `event` data
+- **goal:** making DSE more findable and more linkable, reusable
+  - calendar widget 
+
+--- 
+
+### event
+
+- as "graph" relating S/P/O resulting in change of state
+- as a Named entity (missing `tei:eventName` || to `(pers|place|org)Name`
+- extending TEI P5 Guidelines 
+- MRP as one more usecase
+- https://mrptestapp.acdh-dev.oeaw.ac.at/
 
 ---
 
@@ -87,7 +107,7 @@ see <https://mpr.acdh-dev.ac.at>
 ## Published Tools and Sources
 
 - https://hw.oeaw.ac.at/ministerrat/
-- http://mrptestapp.acdh-dev.oeaw.ac.at/
+- https://mrptestapp.acdh-dev.oeaw.ac.at/
 - https://github.com/skurzinz/mrptestapp/
 - https://github.com/skurzinz/mrptestdata/
 - https://github.com/skurzinz/mrpbiblio/
