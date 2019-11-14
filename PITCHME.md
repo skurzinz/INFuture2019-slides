@@ -64,13 +64,15 @@ Austrian Academy of Sciences
 ### APIS
 
 - Simple data model
-  - person
-  - place
-  - institution
-  - work
-  - event
-  
-see <https://mpr.acdh-dev.ac.at>
+  - person, place, institution, work, event
+- entities of all types can be interrelated
+  - fixed set of relation attributes (mini-event)
+  - events organized in collections 
+- unlimited full texts can be attached to entities
+- annotations related to entities and relations
+  - organized in projects
+
+see <https://mpr.acdh-dev.oeaw.ac.at> | <https://apis-hub.acdh-dev.oeaw.ac.at>
 
 ---
 
@@ -83,6 +85,7 @@ see <https://mpr.acdh-dev.ac.at>
 - find ways to tag and disseminate DSE `event` data
 - **goal:** making DSE more findable and more linkable, reusable
   - calendar widget 
+  - describe events in RDF compatible way within TEI
 
 --- 
 
