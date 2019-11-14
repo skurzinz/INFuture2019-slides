@@ -30,7 +30,8 @@ Austrian Academy of Sciences
 
 ## Open data
 
-- but for history
+- but for historical records 
+  - (that otherwise go unnoticed even in large parts of the history research)
 - "Digital Humanities" methods
 - "Findable, Accessible, Interoperable, and Re-usable"
 
@@ -39,11 +40,11 @@ Austrian Academy of Sciences
 ## Methods
 
 ![svg](assets/img/mrpactivitydiagram.gv.svg)
-![png](assets/img/mrpactivitydiagram.gv.svg)
+![png](assets/img/mrpactivitydiagram.gv.png)
 
 ---
 
-## Methods
+### Transcription and Linking
 
 - .docx for transcription
 - TEI XML ~standard markup
@@ -52,11 +53,26 @@ Austrian Academy of Sciences
 
 ---
 
-## Tools/stack
+### Tools/stack
 
 - Word/Git/XSL/eXist-db
 - Zotero/bibsonomy
-- APIS
+- APIS as prosopographical information system
+
+---
+
+### APIS
+
+- Simple data model
+  - person
+  - place
+  - institution
+  - work
+  - event
+  
+see <https://mpr.acdh-dev.ac.at>
+
+
 
 ---
 
