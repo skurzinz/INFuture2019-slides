@@ -1,4 +1,6 @@
-## Event-based Modelling of a Major Historical Government Source: Ministerratsprotokolle 1848–1918
+## Ministerratsprotokolle 1848–1918
+
+### Event-based Modelling of a Major Historical Government Source 
 
 @snap[south span-100 text-06]
 Wladimir Fischer-Nebmaier, Stephan Kurz,
