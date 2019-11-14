@@ -13,9 +13,13 @@ Austrian Academy of Sciences
 - Long-term project of AAS
 - Mapping the past to understand the present
 
+---
+
 ## Methods
 
 ![IMAGE](assets/img/mrpactivitydiagram.gv.png)
+
+---
 
 ## Methods
 
@@ -24,16 +28,43 @@ Austrian Academy of Sciences
   - auxiliary entity data
   - LOD connection
 
+---
+
 ## Tools/stack
 
 - eXist-db
 - Zotero/bibsonomy
 - APIS
 
+---
+
 ## Deployment ecosystem
 
 ![IMAGE](assets/img/mrpdeploymentdiagram.gv.png)
 
+
+---
+
+## Published Tools and Sources
+
+- https://hw.oeaw.ac.at/ministerrat/
+- http://mrptestapp.acdh-dev.oeaw.ac.at/
+- https://github.com/skurzinz/mrptestapp/
+- https://github.com/skurzinz/mrptestdata/
+- https://github.com/skurzinz/mrpbiblio/
+- https://gitpitch.com/skurzinz/INFuture2019-slides/
+
+---
+
+## Go use it
+
+liberate some more history data.
+
+@snap[south span-100 text]
+feedback and/or contribution is always welcome.
+@snapend
+
+---
 
 @snap[south span-100 text-white]
 Snap Layouts let you create custom slide designs directly within your markdown.
@@ -90,6 +121,5 @@ REFERENCES "forum" ("id");
 ## Now It's Your Turn
 @snapend
 
-@snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
+
 @snapend
