@@ -1,25 +1,39 @@
-# Event-based Modelling of a Major Historical Government Source: Ministerratsprotokolle 1848–1918
+## Event-based Modelling of a Major Historical Government Source: Ministerratsprotokolle 1848–1918
 
 @snap[south span-100 text-06]
-Stephan Kurz, Wladimir Fischer-Nebmaier  
+Wladimir Fischer-Nebmaier, Stephan Kurz,
 Austrian Academy of Sciences
 @snapend
 ---
 
 ## What and why
 
-![IMAGE](assets/img/presentation.png)
+- Scholarly Print Edition > Digital Scholarly Edition
+- Historical documents (https://oesta.gv.at/)
+- Long-term project of AAS
+- Mapping the past to understand the present
 
----?color=linear-gradient(180deg, white 75%, black 25%)
-@title[Customize Slide Layout]
+## Methods
 
-@snap[west span-50]
-## Customize the Layout
-@snapend
+![IMAGE](assets/img/mrpactivitydiagram.gv.png)
 
-@snap[east span-50]
-![IMAGE](assets/img/presentation.png)
-@snapend
+## Methods
+
+- .docx for transcription
+- TEI XML ~standard markup
+  - auxiliary entity data
+  - LOD connection
+
+## Tools/stack
+
+- eXist-db
+- Zotero/bibsonomy
+- APIS
+
+## Deployment ecosystem
+
+![IMAGE](assets/img/mrpdeploymentdiagram.gv.png)
+
 
 @snap[south span-100 text-white]
 Snap Layouts let you create custom slide designs directly within your markdown.
