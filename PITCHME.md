@@ -6,7 +6,7 @@ Austrian Academy of Sciences
 @snapend
 ---
 
-## Add Some Slide Candy
+## What and why
 
 ![IMAGE](assets/img/presentation.png)
 
