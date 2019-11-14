@@ -17,7 +17,7 @@ Austrian Academy of Sciences
 
 ## Methods
 
-![IMAGE](assets/img/mrpactivitydiagram.gv.png)
+![IMAGE](assets/img/mrpactivitydiagram.gv.svg)
 
 ---
 
@@ -40,7 +40,7 @@ Austrian Academy of Sciences
 
 ## Deployment ecosystem
 
-![IMAGE](assets/img/mrpdeploymentdiagram.gv.png)
+![IMAGE](assets/img/mrpdeploymentdiagram.gv.svg)
 
 
 ---
