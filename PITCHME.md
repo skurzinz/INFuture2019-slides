@@ -1,6 +1,6 @@
 ## Ministerratsprotokolle 1848–1918
 
-### Event-based Modelling of a Major Historical Government Source 
+### Event-based Modelling of a Major Historical Government Source
 
 @snap[south span-100 text-06]
 Wladimir Fischer-Nebmaier, Stephan Kurz,
@@ -28,18 +28,29 @@ Austrian Academy of Sciences
 
 ---
 
+## Geopolitical scpoe
+
+- Habsburg Empire (to 1867)
+- Austro-Hungarian Monarchy (from 1867)
+
+@snap[south span-95]
+[![https://histogis.acdh.oeaw.ac.at/shapes/shape/detail/9923](assets/img/screenshotHistoGIS-HR.png)](https://histogis.acdh.oeaw.ac.at/shapes/shape/detail/9923)
+@snapend
+
+---
+
 ## Open data
 
-- but for historical records 
+- but for historical records
   - (that otherwise go unnoticed even in large parts of the history research)
 - "Digital Humanities" methods
 - "Findable, Accessible, Interoperable, and Re-usable"
 
 ---
 
-## Methods
+## Edition Methods
 
-![svg](assets/img/mrpactivitydiagram.gv.svg)
+[![svg](assets/img/mrpactivitydiagram.gv.svg)](assets/img/mrpactivitydiagram.gv.svg)
 ![png](assets/img/mrpactivitydiagram.gv.png)
 
 ---
@@ -67,7 +78,7 @@ Austrian Academy of Sciences
   - person, place, institution, work, event
 - entities of all types can be interrelated
   - fixed set of relation attributes (mini-event)
-  - events organized in collections 
+  - events organized in collections
 - unlimited full texts can be attached to entities
 - annotations related to entities and relations
   - organized in projects
@@ -80,22 +91,23 @@ see <https://mpr.acdh-dev.oeaw.ac.at> | <https://apis-hub.acdh-dev.oeaw.ac.at>
 
 - Joint paper with C Fritze (onb.ac.at) / H W Klug (uni-graz.at)
 - diary of Andreas Okopenko (Austrian writer)
-- medieval calendar 
+- medieval calendar
 - medieval itineraries
 - find ways to tag and disseminate DSE `event` data
 - **goal:** making DSE more findable and more linkable, reusable
-  - calendar widget 
+  - calendar widget
   - describe events in RDF compatible way within TEI
 
---- 
+---
 
 ### event
 
 - as "graph" relating S/P/O resulting in change of state
 - as a Named entity (missing `tei:eventName` || to `(pers|place|org)Name`
-- extending TEI P5 Guidelines 
-- MRP as one more usecase
+- extending TEI P5 Guidelines
+- MRP as one example usecase
 - https://mrptestapp.acdh-dev.oeaw.ac.at/
+  - first **complete TOC** for all edited volumes
 
 ---
 
@@ -115,6 +127,13 @@ see <https://mpr.acdh-dev.oeaw.ac.at> | <https://apis-hub.acdh-dev.oeaw.ac.at>
 - https://github.com/skurzinz/mrptestdata/
 - https://github.com/skurzinz/mrpbiblio/
 - https://gitpitch.com/skurzinz/INFuture2019-slides/
+
+---
+
+## Challenges
+
+- What is an event?
+  - How deep do we dig (and encode)? 
 
 ---
 
